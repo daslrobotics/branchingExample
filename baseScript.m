@@ -21,3 +21,7 @@ line([0,R(1,1)],[0,R(1,2)][0,R(1,3)],'r');
 % line(...) % y axis
 % line(...) % z axis
 
+
+%% Animate this rotation
+% 
+animateRotation(R)
